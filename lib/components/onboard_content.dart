@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:onboardingui/components/landed_content.dart';
-import 'package:onboardingui/components/sing_up_form.dart';
+import 'package:onboardingui/components/sign_up_form.dart';
 import 'package:onboardingui/constants/colors.dart';
 
 class OnboardContent extends StatefulWidget {
